@@ -8,14 +8,17 @@ class Landing extends Component {
       <div style={{width: '100%', margin: 'auto'}}>
         <Grid className="landing-grid">
           <Cell col={12}>
+          <div style={{textAlign: 'center'}}>
             <img
-              src="https://cdn2.iconfinder.com/data/icons/avatar-2/512/Fred_man-512.png"
+              src="https://media.dogfinance.com/files/users/paulin-kouokam-kamdem_b_1555533790.jpg"
               alt="avatar"
               className="avatar-img"
               />
+              </div>
+           
 
             <div className="banner-text">
-              <h1>Ingénieur Informaticien</h1>
+              <h1 >Ingénieur informaticien</h1>
 
             <hr/>
 
